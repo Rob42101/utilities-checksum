@@ -1,6 +1,6 @@
 # utilities-checksum
 
-This application provides any easy to use GUI for checking the hash values of any file. The use case is for when you download a file for which the author has provided a checksum value: this app will generate the hash value of the downloaded file (on the local host machine) and allow you to simply paste in the publish hash value. It will then compare the two values and indicate if they are a match, or not a match.
+This application provides an easy to use GUI for checking the hash values of any file. The use case is for when you download a file for which the author has provided a checksum value: this app will generate the hash value of the downloaded file (on the local host machine) and allow you to simply paste in the publish hash value. It will then compare the two values and indicate if they are a match, or not a match.
 
 Although PGP signature files are becoming more popular, you'll still come across this kind of file verification and this app is an easy and pleasant way to use this time honoured process.
 
