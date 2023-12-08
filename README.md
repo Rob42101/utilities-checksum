@@ -70,7 +70,7 @@ The SHA-256 hash values for my application files are as follows:
 
 `1884d796f7b3decf44c476931da7274c7953a5b326abf2fe05499be080810226`
 
-C&P the published hash value into the light blue box and press the Green Shield icon to check that the two values are a match. If the text in the light blue box turns Red, it indicates that there is a mismatch between the calculated hash digest and the published one. You should be **VERY** wary about that, because it could mean that an unauthorised change has been made to the file that you have downloaded. Check that you have not made an error and contact the files's anther, to let them know of the issue. 
+C&P the published hash value into the light blue box and press the Green Shield icon to check that the two values are a match. If the text in the light blue box turns Red, it indicates that there is a mismatch between the calculated hash digest and the published one. You should be **VERY** wary about that, because it could mean that an unauthorised change has been made to the file that you have downloaded. Check that you have not made an error and contact the files's author, to let them know of the issue. 
 
 If all is well, the text will turn Green and you will know that the file that you have just downloaded has not been changed since the published hash value was generated.
 
