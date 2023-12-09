@@ -76,4 +76,4 @@ If all is well, the text will turn Green and you will know that the file that yo
 
 The Red 'off' button should need no explanation.
 
-Thank you for your interest in this and I trust the you will enjoy using my creation.
+Thank you for your interest in this and I trust that you will enjoy using my creation.
