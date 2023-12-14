@@ -11,7 +11,7 @@ The app supports four hash digests:
 - SHA-256
 - SHA-512
 
-... and has been written in Python3 code, using the Tkinter framework for the GUI. I have kept the dependencies to the minimum and used standard Python libraries, so there should be no `pip install` requirements. As for the app itself, again, there are no install requirements, per se, but a working Python3 environment is a given, along with the Tkinter framework.
+... and has been written in Python3 code, using the Tkinter library for the GUI. I have kept the dependencies to the minimum and used standard Python libraries, so there should be no `pip install` requirements. As for the app itself, again, there are no install requirements, per se, but a working Python3 environment is a given, along with the Tkinter framework.
 
 To create this app, I used a GUI design application called PAGE and you'll find some details about that in the `README.md` page for my `utilities` repository, of which this is a sub-section.
 
